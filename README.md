@@ -1,14 +1,14 @@
-# Hi, I'm Leyla 👋
+# Hey, I'm Leyla 
 
 Math & Computer Science student at **ESOGU** (Turkey), building full-stack web and mobile products —
 lately with a focus on **retrieval-augmented AI** and **Flutter apps**.
 
-- 🔭 Currently building **Dayanak**, a source-citing legal assistant (RAG + measurable evaluation)
-- 📱 Shipping **MatrInk**, a Flutter + Supabase app with AI handwriting analysis
-- 📚 Mentor of a *Frontend Web Development* class
-- 🌍 Speaks Azerbaijani (native), Turkish, English and Russian
+-  Currently building **Dayanak**, a source-citing legal assistant (RAG + measurable evaluation)
+-  Shipping **MatrInk**, a Flutter + Supabase app with AI handwriting analysis
+-  Mentor of a *Frontend Web Development* class
+-  Speaks Azerbaijani (native), Turkish, English and Russian
 
-## 🚀 Featured projects
+##  Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -37,7 +37,7 @@ lately with a focus on **retrieval-augmented AI** and **Flutter apps**.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📫 Find me
+## Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lmmmdva)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lmmdva6@gmail.com)
